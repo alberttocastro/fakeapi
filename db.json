@@ -20,10 +20,5 @@
       "Id": 5,
       "SkuName": "Remédio dorflex para dor de cabeça"
     }
-  ],
-  "skus":[
-    {[1, 2, 3]},
-    {[4, 5]},
-    {[]}
-    ]
+  ]
 }
