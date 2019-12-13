@@ -21,33 +21,37 @@
   "skus-1": [1, 2, 3],
   "skus-2": [5, 2],
   "skus-3": [],
-  "banners": [
-    {
-      "id": 1,
-      "status": "Em exibiçao",
-      "keyWord": "Pomadas",
-      "app": "Pacheco",
-      "bannerPosition": 1,
-      "startDate": "2020-01-01",
-      "endDate": "2020-01-20"
-    },
-    {
-      "id": 2,
-      "status": "Parado",
-      "keyWord": "Dor",
-      "app": "São Paulo",
-      "bannerPosition": 2,
-      "startDate": "2020-01-01",
-      "endDate": "2020-01-20"
-    },
-    {
-      "id": 3,
-      "status": "Em exibiçao",
-      "keyWord": "Alergia",
-      "app": "Pacheco",
-      "bannerPosition": 4,
-      "startDate": "2020-01-01",
-      "endDate": "2020-01-20"
-    }
-  ]
+  "banners": {
+    "limit": 3,
+    "page": 1,
+    "docs": [
+      {
+        "id": 1,
+        "status": "Em exibiçao",
+        "keyWord": "Pomadas",
+        "app": "Pacheco",
+        "bannerPosition": 1,
+        "startDate": "2020-01-01",
+        "endDate": "2020-01-20"
+      },
+      {
+        "id": 2,
+        "status": "Parado",
+        "keyWord": "Dor",
+        "app": "São Paulo",
+        "bannerPosition": 2,
+        "startDate": "2020-01-01",
+        "endDate": "2020-01-20"
+      },
+      {
+        "id": 3,
+        "status": "Em exibiçao",
+        "keyWord": "Alergia",
+        "app": "Pacheco",
+        "bannerPosition": 4,
+        "startDate": "2020-01-01",
+        "endDate": "2020-01-20"
+      }
+    ]
+  }
 }
