@@ -1,0 +1,29 @@
+{
+  skudescription: [
+    {
+      Id: 1,
+      SkuName: "Produto para a pele"
+    },
+    {
+      Id: 2,
+      SkuName: "Produto para o rosto"
+    },
+    {
+      Id: 3,
+      SkuName: "Produto para o cabelo"
+    },
+    {
+      Id: 4,
+      SkuName: "Remédio para acne"
+    },
+    {
+      Id: 5,
+      SkuName: "Remédio dorflex para dor de cabeça"
+    }
+  ],
+  skus:[
+    {[1, 2, 3]},
+    {[4, 5]},
+    {[]}
+    ]
+}
