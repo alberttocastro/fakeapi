@@ -1,24 +1,14 @@
 {
-  "skudescription": [
-    {
-      "Id": 1,
-      "SkuName": "Produto para a pele"
-    },
-    {
-      "Id": 2,
-      "SkuName": "Produto para o rosto"
-    },
-    {
-      "Id": 3,
-      "SkuName": "Produto para o cabelo"
-    },
-    {
-      "Id": 4,
-      "SkuName": "Remédio para acne"
-    },
-    {
-      "Id": 5,
-      "SkuName": "Remédio dorflex para dor de cabeça"
-    }
-  ]
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
