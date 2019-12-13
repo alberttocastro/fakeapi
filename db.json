@@ -29,7 +29,7 @@
         "id": 1,
         "status": "Em exibiçao",
         "keyWord": "Pomada",
-        "app": "Pacheco",
+        "tenant_id": 1,
         "bannerPosition": 1,
         "startDate": "2020-01-01",
         "endDate": "2020-01-20"
@@ -38,7 +38,7 @@
         "id": 2,
         "status": "Parado",
         "keyWord": "Contra a dor",
-        "app": "São Paulo",
+        "tenant_id": 1,
         "bannerPosition": 2,
         "startDate": "2020-01-01",
         "endDate": "2020-01-20"
@@ -47,7 +47,7 @@
         "id": 3,
         "status": "Em exibiçao",
         "keyWord": "Antialergicos",
-        "app": "Pacheco",
+        "tenant_id": 2,
         "bannerPosition": 4,
         "startDate": "2020-01-01",
         "endDate": "2020-01-20"
