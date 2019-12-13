@@ -1,20 +1,20 @@
 {
   "skudescription": [
-    {"Id": 1, "SkuName": "Produto para a pele"},
+    {"id": 1, "Id": 1, "SkuName": "Produto para a pele"},
     {
-      "Id": 2,
+      "id": 2,"Id": 2,
       "SkuName": "Produto para o rosto"
     },
     {
-      "Id": 3,
+      "id": 3,"Id": 3,
       "SkuName": "Produto para o cabelo"
     },
     {
-      "Id": 4,
+      "id": 4,"Id": 4,
       "SkuName": "Remédio para acne"
     },
     {
-      "Id": 5,
+      "id": 5,"Id": 5,
       "SkuName": "Remédio dorflex para dor de cabeça"
     }
   ],
