@@ -23,6 +23,7 @@
   "skus-3": [],
   "banners": [
     {
+      "id": 1,
       "status": "Em exibiçao",
       "keyWord": "Pomadas",
       "app": "Pacheco",
@@ -31,6 +32,7 @@
       "endDate": "2020-01-20"
     },
     {
+      "id": 1,
       "status": "Parado",
       "keyWord": "Dor",
       "app": "São Paulo",
@@ -39,6 +41,7 @@
       "endDate": "2020-01-20"
     },
     {
+      "id": 1,
       "status": "Em exibiçao",
       "keyWord": "Alergia",
       "app": "Pacheco",
