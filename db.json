@@ -28,7 +28,10 @@
       {
         "id": 1,
         "status": "Em exibiçao",
-        "keyWord": "Pomadas",
+        "sku": [
+          {"name": "Hipogloss"},
+          {"name": "Bepantol"}
+        ],
         "app": "Pacheco",
         "bannerPosition": 1,
         "startDate": "2020-01-01",
@@ -37,7 +40,10 @@
       {
         "id": 2,
         "status": "Parado",
-        "keyWord": "Dor",
+        "sku": [
+          {"name": "Dorflex"},
+          {"name": "Paracetamol"}
+        ],
         "app": "São Paulo",
         "bannerPosition": 2,
         "startDate": "2020-01-01",
@@ -46,7 +52,10 @@
       {
         "id": 3,
         "status": "Em exibiçao",
-        "keyWord": "Alergia",
+        "sku": [
+          {"name": "Polaramine"},
+          {"name": "Allegra"}
+        ],
         "app": "Pacheco",
         "bannerPosition": 4,
         "startDate": "2020-01-01",
