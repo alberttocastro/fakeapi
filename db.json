@@ -20,5 +20,31 @@
   ],
   "skus-1": [1, 2, 3],
   "skus-2": [5, 2],
-  "skus-3": []
+  "skus-3": [],
+  "banners": [
+    {
+      "status": "Em exibiçao",
+      "keyWord": "Pomadas",
+      "app": "Pacheco",
+      "bannerPosition": 1,
+      "startDate": "2020-01-01",
+      "endDate": "2020-01-20"
+    },
+    {
+      "status": "Parado",
+      "keyWord": "Dor",
+      "app": "São Paulo",
+      "bannerPosition": 2,
+      "startDate": "2020-01-01",
+      "endDate": "2020-01-20"
+    },
+    {
+      "status": "Em exibiçao",
+      "keyWord": "Alergia",
+      "app": "Pacheco",
+      "bannerPosition": 4,
+      "startDate": "2020-01-01",
+      "endDate": "2020-01-20"
+    }
+  ]
 }
